@@ -6,3 +6,5 @@ Author ~ Tusshar Singh
 <br>
 Languages ~ HTML , CSS , JS
 <br>
+Website link ~ https://tusshar-web.github.io/Rock-paper-scissors/
+
